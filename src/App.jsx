@@ -14,7 +14,7 @@ function App() {
               <Link to="/" className="hover:underline font-medium">Home</Link>
             </li>
             <li>
-              <Link to="/combined" className="hover:underline font-medium">Combined</Link>
+              <Link to="/combined" className="hover:underline font-medium">Wawro's Sheet</Link>
             </li>
             <li>
               <Link to="/cyanne" className="hover:underline font-medium">Cyanne's Sheet</Link>
