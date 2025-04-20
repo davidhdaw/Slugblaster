@@ -8,7 +8,7 @@ import {
   TabSystem, 
   createCharacterStorage,
   clearSheetData
-} from '../SheetUtilities/SheetUtilities';
+} from '../SheetUtilities/SheetUtilities.jsx';
 
 // Create sheet-specific storage
 const SHEET_ID = 'amanda';

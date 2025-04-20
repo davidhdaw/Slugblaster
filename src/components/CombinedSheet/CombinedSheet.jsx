@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './CombinedSheet.css'
+import './Combinedsheet.css'
 
 import {
   ResourceTracker, 
